@@ -15,7 +15,7 @@ const getWeatherByCity = async (city) => {
       description: data.weather[0].description
     };
   } catch (error) {
-    throw new Error('City not found or other error');
+    throw new Error('Could fetch weather for this city, please try again!');
   }
 };
 

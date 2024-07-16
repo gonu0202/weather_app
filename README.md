@@ -20,14 +20,14 @@ How to Run?
 
 Backend:
 
-Navigate to the backend directory.
-Install dependencies: npm install.
-Start the server: npm start.
-Run tests: npm test.
+- Navigate to the backend directory.
+- Install dependencies: npm install.
+- Start the server: npm start.
+- Run tests: npm test.
 
 Frontend:
 
-Navigate to the frontend directory.
-Install dependencies: npm install.
-Start the development server: npm run dev.
-Run tests: npm test.
+- Navigate to the frontend directory.
+- Install dependencies: npm install.
+- Start the development server: npm run dev.
+- Run tests: npm test.
