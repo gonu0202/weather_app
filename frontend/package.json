@@ -1,0 +1,24 @@
+{
+    "name": "weather-frontend",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "test": "jest"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "next": "10.0.0",
+      "react": "17.0.1",
+      "react-dom": "17.0.1"
+    },
+    "devDependencies": {
+      "jest": "^26.6.3",
+      "babel-jest": "^26.6.3"
+    },
+    "jest": {
+      "setupFilesAfterEnv": ["<rootDir>/jest.setup.js"]
+    }
+  }
+  
